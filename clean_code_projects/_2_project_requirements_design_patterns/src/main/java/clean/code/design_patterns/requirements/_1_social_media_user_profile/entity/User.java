@@ -1,4 +1,4 @@
-package clean.code.design_patterns.requirements._1_social_media_user_profile;
+package clean.code.design_patterns.requirements._1_social_media_user_profile.entity;
 
 import java.util.List;
 import lombok.AllArgsConstructor;
